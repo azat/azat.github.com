@@ -1,5 +1,5 @@
 ### Welcome to my GitHub page.
 
-## Some of my projects:
-* [parnas](azat.github.com/parnas)
+## Contact:
 
+Messages can be encrypted with [my public key](/azatpub.asc).
